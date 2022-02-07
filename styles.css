@@ -2,7 +2,7 @@
  margin:2px;
  padding: 0;
  box-sizing: border-box;
- background-color: #bcbcbc;
+ background-color: #eeeeee;
 
 }
 
@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #0f4419;
-  color: #bcbcbc;
+  color: #eeeeee;
 }
 
 .brand-title {
@@ -52,13 +52,13 @@ body {
 .navbar-links li a {
   background-color: #0f4419;
   text-decoration: none;
-  color: #97a6a8;
+  color: #eeeeee;
   padding: 1rem;
   display: block;
 }
 
 .navbar-links li:hover {
-  background-color: #bcbcbc;
+  background-color: #eeeeee;
 }
 
 .toggle-button {
@@ -115,7 +115,7 @@ main {
 section {
   list-style-type: none;
   padding: none; 
-  background-color: #bcbcbc;
+  background-color: #eeeeee;
 
 }
 section h1, h2 {
