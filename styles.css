@@ -2,7 +2,7 @@
  margin:2px;
  padding: 0;
  box-sizing: border-box;
- background-color: #808080;
+ background-color: #bcbcbc;
 
 }
 
@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #0f4419;
-  color: #97a6a8;
+  color: #bcbcbc;
 }
 
 .brand-title {
@@ -58,7 +58,7 @@ body {
 }
 
 .navbar-links li:hover {
-  background-color: #808080;
+  background-color: #bcbcbc;
 }
 
 .toggle-button {
@@ -76,7 +76,7 @@ body {
 .toggle-button .bar {
   height: 3px;
   width: 100%;
-  background-color: silver;
+  background-color: #0f4419;
   border-radius: 10px;
   
 }
@@ -115,7 +115,7 @@ main {
 section {
   list-style-type: none;
   padding: none; 
-  background-color: #808080;
+  background-color: #bcbcbc;
 
 }
 section h1, h2 {
