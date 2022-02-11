@@ -84,6 +84,7 @@ body {
 main {
  
   text-align: center;
+  
   font-weight: 400;
   margin-left: 0;
   margin-right: 0;
@@ -194,5 +195,7 @@ footer {
  .navbar-links.active {
    display: flex;
  }
-  
+  main {
+    font-size: 1.5rem;
+  }
 }
