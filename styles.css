@@ -138,6 +138,7 @@ section p {
   
 }
 
+
 .card {
   padding:20px;
   border-style: solid;
@@ -161,7 +162,10 @@ footer {
   color: #0f4419;
   font-weight: 700;
   min-height: 25px;
-  
+}
+
+footer a{
+  color:#0f4419;
 }
 
 @media (max-width: 1400px) {
